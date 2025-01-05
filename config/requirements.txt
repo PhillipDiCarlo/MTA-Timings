@@ -1,0 +1,6 @@
+# requirements.txt
+requests
+protobuf
+gtfs-realtime-bindings
+# Use the binary package so we don't need pg_config
+psycopg2-binary
